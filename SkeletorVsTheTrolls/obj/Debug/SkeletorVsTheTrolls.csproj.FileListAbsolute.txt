@@ -1,6 +1,1 @@
 C:\Users\Technologist SP\Documents\GitHub\SkeletorVsTheTrolls\SkeletorVsTheTrolls\bin\Debug\SkeletorVsTheTrolls.exe.config
-C:\Users\Technologist SP\Documents\GitHub\SkeletorVsTheTrolls\SkeletorVsTheTrolls\bin\Debug\SkeletorVsTheTrolls.exe
-C:\Users\Technologist SP\Documents\GitHub\SkeletorVsTheTrolls\SkeletorVsTheTrolls\bin\Debug\SkeletorVsTheTrolls.pdb
-C:\Users\Technologist SP\Documents\GitHub\SkeletorVsTheTrolls\SkeletorVsTheTrolls\obj\Debug\SkeletorVsTheTrolls.exe
-C:\Users\Technologist SP\Documents\GitHub\SkeletorVsTheTrolls\SkeletorVsTheTrolls\obj\Debug\SkeletorVsTheTrolls.pdb
-C:\Users\Technologist SP\Documents\GitHub\SkeletorVsTheTrolls\SkeletorVsTheTrolls\obj\Debug\SkeletorVsTheTrolls.csprojResolveAssemblyReference.cache
